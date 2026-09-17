@@ -6,3 +6,7 @@
 
 ## USB-TTL-I2C CH341
 ![IMG_7940](https://github.com/user-attachments/assets/4adffbf5-6060-46b7-afef-c45112b5d64d)
+
+## VHDL & VERILOG  
+
+[EXAMPLE](https://www.waveshare.com/wiki/OpenEP4CE6-C)  
